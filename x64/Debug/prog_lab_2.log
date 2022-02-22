@@ -1,3 +1,0 @@
-﻿  point.cpp
-C:\Users\Evgeniy\source\repos\prog_lab_2\point.cpp(26,13): warning C4244: return: преобразование "double" в "float", возможна потеря данных
-  prog_lab_2.vcxproj -> C:\Users\Evgeniy\source\repos\prog_lab_2\x64\Debug\prog_lab_2.exe
